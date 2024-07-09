@@ -1,0 +1,188 @@
+{
+    "warehouses": [
+        {
+            "id": "1",
+            "name": "Warehouse A",
+            "Box": [
+                {
+                    "id": "A1",
+                    "name": "product A1",
+                    "Product": [
+                        {
+                            "batch No": "22312",
+                            "serial number": "12312312",
+                            "mfg.date": "15/03/2024",
+                            "exp.date": "15/03/2026",
+                            "status": "in"
+                        },
+                        {
+                            "batch No": "22313",
+                            "serial number": "12312313",
+                            "mfg.date": "16/03/2024",
+                            "exp.date": "16/03/2026",
+                            "status": "out"
+                        }
+                    ]
+                },
+                {
+                    "id": "A2",
+                    "name": "product A2",
+                    "Product": [
+                        {
+                            "batch No": "22314",
+                            "serial number": "12312314",
+                            "mfg.date": "17/03/2024",
+                            "exp.date": "17/03/2026",
+                            "status": "in"
+                        },
+                        {
+                            "batch No": "22315",
+                            "serial number": "12312315",
+                            "mfg.date": "18/03/2024",
+                            "exp.date": "18/03/2026",
+                            "status": "in"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Warehouse B",
+            "Box": [
+                {
+                    "id": "B1",
+                    "name": "product B1",
+                    "Product": [
+                        {
+                            "batch No": "22412",
+                            "serial number": "12412412",
+                            "mfg.date": "19/03/2024",
+                            "exp.date": "19/03/2026",
+                            "status": "out"
+                        },
+                        {
+                            "batch No": "22413",
+                            "serial number": "12412413",
+                            "mfg.date": "20/03/2024",
+                            "exp.date": "20/03/2026",
+                            "status": "in"
+                        }
+                    ]
+                },
+                {
+                    "id": "B2",
+                    "name": "product B2",
+                    "Product": [
+                        {
+                            "batch No": "22414",
+                            "serial number": "12412414",
+                            "mfg.date": "21/03/2024",
+                            "exp.date": "21/03/2026",
+                            "status": "in"
+                        },
+                        {
+                            "batch No": "22415",
+                            "serial number": "12412415",
+                            "mfg.date": "22/03/2024",
+                            "exp.date": "22/03/2026",
+                            "status": "out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Warehouse C",
+            "Box": [
+                {
+                    "id": "C1",
+                    "name": "product C1",
+                    "Product": [
+                        {
+                            "batch No": "22512",
+                            "serial number": "12512512",
+                            "mfg.date": "23/03/2024",
+                            "exp.date": "23/03/2026",
+                            "status": "in"
+                        },
+                        {
+                            "batch No": "22513",
+                            "serial number": "12512513",
+                            "mfg.date": "24/03/2024",
+                            "exp.date": "24/03/2026",
+                            "status": "out"
+                        }
+                    ]
+                },
+                {
+                    "id": "C2",
+                    "name": "product C2",
+                    "Product": [
+                        {
+                            "batch No": "22514",
+                            "serial number": "12512514",
+                            "mfg.date": "25/03/2024",
+                            "exp.date": "25/03/2026",
+                            "status": "in"
+                        },
+                        {
+                            "batch No": "22515",
+                            "serial number": "12512515",
+                            "mfg.date": "26/03/2024",
+                            "exp.date": "26/03/2026",
+                            "status": "in"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Warehouse D",
+            "Box": [
+                {
+                    "id": "D1",
+                    "name": "product D1",
+                    "Product": [
+                        {
+                            "batch No": "22612",
+                            "serial number": "12612612",
+                            "mfg.date": "27/03/2024",
+                            "exp.date": "27/03/2026",
+                            "status": "out"
+                        },
+                        {
+                            "batch No": "22613",
+                            "serial number": "12612613",
+                            "mfg.date": "28/03/2024",
+                            "exp.date": "28/03/2026",
+                            "status": "in"
+                        }
+                    ]
+                },
+                {
+                    "id": "D2",
+                    "name": "product D2",
+                    "Product": [
+                        {
+                            "batch No": "22614",
+                            "serial number": "12612614",
+                            "mfg.date": "29/03/2024",
+                            "exp.date": "29/03/2026",
+                            "status": "in"
+                        },
+                        {
+                            "batch No": "22615",
+                            "serial number": "12612615",
+                            "mfg.date": "30/03/2024",
+                            "exp.date": "30/03/2026",
+                            "status": "out"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
